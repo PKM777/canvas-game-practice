@@ -191,4 +191,4 @@ function loadApp(){
 }
 
 
-
+//make a player class
